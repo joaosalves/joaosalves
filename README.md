@@ -7,6 +7,17 @@
 </p>
 
 <p>
+  <a href="https://www.linkedin.com/in/joao-salves/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-João%20Salves-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:joaovitorsalves@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+<p>
   Building and maintaining web and mobile applications with a strong focus on performance, maintainability, and user experience.
 </p>
 
@@ -40,14 +51,4 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white" />
-</p>
-
-<h2>Contact</h2>
-
-<p>
-  <a href="https://www.linkedin.com/in/joao-salves/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <br>
-  Email: <a href="mailto:joaovitorsalves@gmail.com">joaovitorsalves@gmail.com</a>
 </p>
